@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2970d75c-0669-4927-ab9c-8a8bdde70a7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/zhipin/scrapy-examples/doubanbook/doubanbook/spiders/douban_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhipin/scrapy-examples/doubanbook/doubanbook/spiders/douban_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/scrapy-examples/qqnews/qqnews/spiders/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhipin/scrapy-examples/qqnews/qqnews/spiders/spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/selenium001.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhipin/selenium001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/111111.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/111111old.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/111111old1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/183.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/184.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/185.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/186.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/187.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/188.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/189.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/190.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/191.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/199.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/22222.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/33333.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/888888888.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/999999999.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/spiders/twitch.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhipin/twitch_featured/twitch_featured/spiders/twitch.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/zhipin" />
+  </component>
+  <component name="ProjectId" id="1Xnr8tDvImZBCslPbq6rp9naP3c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="begintwitch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhipin/twitch_featured" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhipin/twitch_featured/begintwitch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.begintwitch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2970d75c-0669-4927-ab9c-8a8bdde70a7d" name="Default Changelist" comment="" />
+      <created>1581692543624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581692543624</updated>
+      <workItem from="1581692548204" duration="37000" />
+      <workItem from="1581692924906" duration="48000" />
+      <workItem from="1582012412622" duration="6000" />
+      <workItem from="1582012532228" duration="277000" />
+      <workItem from="1582012896171" duration="10071000" />
+      <workItem from="1582116602687" duration="4318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1864" height="321" key="GridCell.Tab.0.bottom" timestamp="1582122222293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1582122222293" />
+    <state width="1864" height="321" key="GridCell.Tab.0.center" timestamp="1582122222293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1582122222293" />
+    <state width="1864" height="321" key="GridCell.Tab.0.left" timestamp="1582122222293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1582122222293" />
+    <state width="1864" height="321" key="GridCell.Tab.0.right" timestamp="1582122222293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1582122222293" />
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom" timestamp="1582122222295">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1582122222295" />
+    <state width="1864" height="321" key="GridCell.Tab.1.center" timestamp="1582122222294">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1582122222294" />
+    <state width="1864" height="321" key="GridCell.Tab.1.left" timestamp="1582122222294">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1582122222294" />
+    <state width="1864" height="321" key="GridCell.Tab.1.right" timestamp="1582122222295">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1582122222295" />
+    <state x="275" y="88" key="SettingsEditor" timestamp="1582099372064">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="275" y="88" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1582099372064" />
+    <state x="574" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1582116617039">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="574" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582116617039" />
+    <state x="567" y="66" width="786" height="900" key="find.popup" timestamp="1582032058870">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="567" y="66" width="786" height="900" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1582032058870" />
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup" timestamp="1582100982415">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1582100982415" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="nows" />
+        <watch expression="time__text.strip()" />
+        <watch expression="time__text.strip() == &quot;&quot;" />
+        <watch expression="time__text.strip==&quot;&quot;" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_project$begintwitch.coverage" NAME="begintwitch Coverage Results" MODIFIED="1582118269953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhipin/twitch_featured" />
+  </component>
+</project>

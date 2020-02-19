@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e3a47c9-0f20-477c-ad63-264a41c5901b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mingyan$mingyan_spider.coverage" NAME="mingyan_spider Coverage Results" MODIFIED="1553071376540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan/spiders" />
+    <SUITE FILE_PATH="coverage/mingyan$employee.coverage" NAME="employee Coverage Results" MODIFIED="1553074258873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan/spiders" />
+    <SUITE FILE_PATH="coverage/mingyan$6_1.coverage" NAME="6-1 Coverage Results" MODIFIED="1554262492166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan/spiders" />
+    <SUITE FILE_PATH="coverage/mingyan$pyqt5.coverage" NAME="pyqt5 Coverage Results" MODIFIED="1551687312194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan" />
+    <SUITE FILE_PATH="coverage/mingyan$test002.coverage" NAME="test002 Coverage Results" MODIFIED="1554294285294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan/spiders" />
+    <SUITE FILE_PATH="coverage/mingyan$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1553245957424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan/spiders" />
+    <SUITE FILE_PATH="coverage/mingyan$test003.coverage" NAME="test003 Coverage Results" MODIFIED="1554302581794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan/spiders" />
+    <SUITE FILE_PATH="coverage/mingyan$boss.coverage" NAME="boss Coverage Results" MODIFIED="1556250989041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan/spiders" />
+    <SUITE FILE_PATH="coverage/mingyan$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1553053882824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mingyan" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mingyan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mingyan/spiders/test002.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mingyan/spiders/6-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mingyan/spiders/test003.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mingyan/spiders/boss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/http/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1081">
+              <caret line="217" column="18" selection-start-line="217" selection-start-column="6" selection-end-line="217" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#2728#1" />
+                <element signature="e#2881#2951#0" />
+                <element signature="e#3001#3401#0" />
+                <element signature="e#3654#3704#0" />
+                <element signature="e#3986#4059#0" />
+                <element signature="e#5027#5099#0" />
+                <element signature="e#5233#5709#0" />
+                <element signature="e#5393#5709#0" />
+                <element signature="e#5525#5638#0" />
+                <element signature="e#5758#6848#0" />
+                <element signature="e#5758#5799#0" />
+                <element signature="e#6076#6848#0" />
+                <element signature="e#6076#6524#1" />
+                <element signature="e#6659#6829#0" />
+                <element signature="e#6897#7701#0" />
+                <element signature="e#6897#7230#1" />
+                <element signature="e#7272#7584#0" />
+                <element signature="e#7748#26242#0" />
+                <element signature="e#7748#7803#0" />
+                <element signature="e#8106#9481#0" />
+                <element signature="e#8106#8168#0" />
+                <element signature="e#8675#8737#0" />
+                <element signature="e#9519#10698#0" />
+                <element signature="e#9759#9978#0" />
+                <element signature="e#9759#9812#0" />
+                <element signature="e#9890#9977#0" />
+                <element signature="e#10089#10297#0" />
+                <element signature="e#10110#10175#0" />
+                <element signature="e#10223#10297#0" />
+                <element signature="e#10354#10410#0" />
+                <element signature="e#10487#10594#0" />
+                <element signature="e#10729#13601#0" />
+                <element signature="e#10770#10833#0" />
+                <element signature="e#10914#11414#0" />
+                <element signature="e#11109#11414#0" />
+                <element signature="e#11554#11647#0" />
+                <element signature="e#11928#11999#0" />
+                <element signature="e#12182#12236#0" />
+                <element signature="e#12404#12434#0" />
+                <element signature="e#12764#13008#0" />
+                <element signature="e#12911#13008#0" />
+                <element signature="e#13298#13364#0" />
+                <element signature="e#13639#14664#0" />
+                <element signature="e#13720#13955#0" />
+                <element signature="e#13720#13770#0" />
+                <element signature="e#13965#14024#0" />
+                <element signature="e#14233#14293#0" />
+                <element signature="e#14701#14755#0" />
+                <element signature="e#14786#14914#0" />
+                <element signature="e#14868#14914#0" />
+                <element signature="e#14920#14985#0" />
+                <element signature="e#15134#15197#0" />
+                <element signature="e#15231#15242#0" />
+                <element signature="e#15311#15745#0" />
+                <element signature="e#15359#15427#0" />
+                <element signature="e#15785#16695#0" />
+                <element signature="e#15876#15917#0" />
+                <element signature="e#15959#16113#0" />
+                <element signature="e#16140#16695#0" />
+                <element signature="e#16140#16207#0" />
+                <element signature="e#16422#16615#0" />
+                <element signature="e#16539#16583#0" />
+                <element signature="e#16732#17692#0" />
+                <element signature="e#16821#16860#0" />
+                <element signature="e#16981#17111#0" />
+                <element signature="e#17022#17111#0" />
+                <element signature="e#17121#17188#0" />
+                <element signature="e#17382#17541#0" />
+                <element signature="e#17382#17444#0" />
+                <element signature="e#17592#17675#0" />
+                <element signature="e#17739#18218#0" />
+                <element signature="e#18088#18218#0" />
+                <element signature="e#18088#18141#0" />
+                <element signature="e#18269#18747#0" />
+                <element signature="e#18269#18321#0" />
+                <element signature="e#18404#18747#0" />
+                <element signature="e#18570#18679#0" />
+                <element signature="e#18570#18619#0" />
+                <element signature="e#18788#19826#0" />
+                <element signature="e#18788#18847#0" />
+                <element signature="e#19178#19800#0" />
+                <element signature="e#19221#19343#0" />
+                <element signature="e#19540#19759#0" />
+                <element signature="e#19868#20282#0" />
+                <element signature="e#19944#20201#0" />
+                <element signature="e#19972#20166#0" />
+                <element signature="e#20328#21051#0" />
+                <element signature="e#20437#20961#0" />
+                <element signature="e#20465#20961#0" />
+                <element signature="e#20643#20767#0" />
+                <element signature="e#21092#21954#0" />
+                <element signature="e#21092#21696#1" />
+                <element signature="e#21747#21927#0" />
+                <element signature="e#21997#22505#0" />
+                <element signature="e#22154#22478#0" />
+                <element signature="e#22195#22269#0" />
+                <element signature="e#22542#23364#0" />
+                <element signature="e#22542#22666#1" />
+                <element signature="e#22996#23205#0" />
+                <element signature="e#23041#23102#0" />
+                <element signature="e#23400#23660#0" />
+                <element signature="e#23400#23461#0" />
+                <element signature="e#23704#24222#0" />
+                <element signature="e#23810#23911#0" />
+                <element signature="e#24265#24773#0" />
+                <element signature="e#24265#24333#0" />
+                <element signature="e#24815#25345#0" />
+                <element signature="e#24815#24883#0" />
+                <element signature="e#25176#25242#0" />
+                <element signature="e#25377#25400#0" />
+                <element signature="e#25455#25724#0" />
+                <element signature="e#25760#25916#0" />
+                <element signature="e#26026#26037#0" />
+                <element signature="e#26125#26144#0" />
+                <element signature="e#26176#26191#0" />
+                <element signature="e#26224#26242#0" />
+                <element signature="e#26271#44715#0" />
+                <element signature="e#26546#27096#0" />
+                <element signature="e#26930#26984#0" />
+                <element signature="e#27163#28050#0" />
+                <element signature="e#27163#27749#1" />
+                <element signature="e#28101#28785#0" />
+                <element signature="e#28130#28756#0" />
+                <element signature="e#28256#28603#0" />
+                <element signature="e#28359#28571#0" />
+                <element signature="e#28832#28855#0" />
+                <element signature="e#28888#30072#0" />
+                <element signature="e#28934#28982#0" />
+                <element signature="e#29140#29275#0" />
+                <element signature="e#29486#29648#0" />
+                <element signature="e#29562#29646#0" />
+                <element signature="e#29681#30072#0" />
+                <element signature="e#29850#29919#0" />
+                <element signature="e#30105#30407#0" />
+                <element signature="e#30438#30843#0" />
+                <element signature="e#30542#30690#0" />
+                <element signature="e#30596#30690#0" />
+                <element signature="e#30720#30843#0" />
+                <element signature="e#30788#30843#0" />
+                <element signature="e#30879#32518#0" />
+                <element signature="e#30879#31076#1" />
+                <element signature="e#31120#31224#0" />
+                <element signature="e#31369#32157#0" />
+                <element signature="e#31567#31677#0" />
+                <element signature="e#31567#31627#0" />
+                <element signature="e#31712#31873#0" />
+                <element signature="e#31752#31873#0" />
+                <element signature="e#31911#32138#0" />
+                <element signature="e#32245#32518#0" />
+                <element signature="e#32304#32359#0" />
+                <element signature="e#32394#32518#0" />
+                <element signature="e#32410#32504#0" />
+                <element signature="e#32554#32710#0" />
+                <element signature="e#32554#32679#1" />
+                <element signature="e#32767#33165#0" />
+                <element signature="e#32767#32959#1" />
+                <element signature="e#33251#38543#0" />
+                <element signature="e#33251#33609#1" />
+                <element signature="e#33787#33858#0" />
+                <element signature="e#35322#38446#0" />
+                <element signature="e#35430#37510#0" />
+                <element signature="e#35430#35473#0" />
+                <element signature="e#36334#36559#0" />
+                <element signature="e#36602#37510#0" />
+                <element signature="e#36648#36721#0" />
+                <element signature="e#36772#36829#0" />
+                <element signature="e#37035#37091#0" />
+                <element signature="e#37400#37510#0" />
+                <element signature="e#37524#37590#0" />
+                <element signature="e#38130#38189#0" />
+                <element signature="e#38474#38543#0" />
+                <element signature="e#38595#39506#0" />
+                <element signature="e#38595#38708#1" />
+                <element signature="e#39077#39397#0" />
+                <element signature="e#39561#40135#0" />
+                <element signature="e#39561#39960#1" />
+                <element signature="e#40204#40303#0" />
+                <element signature="e#40362#41377#0" />
+                <element signature="e#40362#40432#0" />
+                <element signature="e#40857#41292#0" />
+                <element signature="e#40948#41292#0" />
+                <element signature="e#40948#40987#0" />
+                <element signature="e#41189#41292#0" />
+                <element signature="e#41444#42202#0" />
+                <element signature="e#42033#42172#0" />
+                <element signature="e#42033#42086#0" />
+                <element signature="e#42239#44715#0" />
+                <element signature="e#42239#42798#1" />
+                <element signature="e#42975#43045#0" />
+                <element signature="e#43906#44028#0" />
+                <element signature="e#44144#44652#0" />
+                <element signature="e#44234#44268#0" />
+                <element signature="e#44409#44494#0" />
+                <element signature="e#44529#44623#0" />
+                <element signature="e#44681#44715#0" />
+                <element signature="e#44776#46849#0" />
+                <element signature="e#44823#46810#0" />
+                <element signature="e#45233#46071#0" />
+                <element signature="e#45753#45886#0" />
+                <element signature="e#45770#45885#0" />
+                <element signature="e#46112#46810#0" />
+                <element signature="e#46570#46810#0" />
+                <element signature="e#46710#46810#0" />
+                <element signature="e#46887#47017#0" />
+                <element signature="e#46887#46952#0" />
+                <element signature="e#47058#47062#0" />
+                <element signature="e#47101#47105#0" />
+                <element signature="e#47149#47237#0" />
+                <element signature="e#47186#47237#0" />
+                <element signature="e#47289#47293#0" />
+                <element signature="e#47343#47347#0" />
+                <element signature="e#47390#47850#0" />
+                <element signature="e#47442#47526#0" />
+                <element signature="e#47559#47801#0" />
+                <element signature="e#47715#47800#0" />
+                <element signature="e#47833#47850#0" />
+                <element signature="e#47902#47906#0" />
+                <element signature="e#47962#47966#0" />
+                <element signature="e#48021#48025#0" />
+                <element signature="e#48080#48084#0" />
+                <element signature="e#48126#48253#0" />
+                <element signature="e#48160#48253#0" />
+                <element signature="e#48293#48463#0" />
+                <element signature="e#48332#48463#0" />
+                <element signature="e#48532#48660#0" />
+                <element signature="e#48572#48660#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/urllib/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2622">
+              <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mingyan/spiders/employee.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mingyan/pyqt5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mingyan/mysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapyTest-master/nextSpider/nextSpider/spiders/next_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1610">
+              <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>next_page</find>
+      <find>flags</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mingyan/pyqt5.py" />
+        <option value="$PROJECT_DIR$/mingyan/mysql.py" />
+        <option value="$PROJECT_DIR$/mingyan/spiders/mingyan_spider.py" />
+        <option value="$PROJECT_DIR$/mingyan/spiders/employee.py" />
+        <option value="$PROJECT_DIR$/mingyan/spiders/test001.py" />
+        <option value="$PROJECT_DIR$/mingyan/spiders/6-1.py" />
+        <option value="$PROJECT_DIR$/mingyan/spiders/test002.py" />
+        <option value="$PROJECT_DIR$/mingyan/spiders/test003.py" />
+        <option value="$PROJECT_DIR$/mingyan/spiders/boss.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="137" />
+    <option name="y" value="10" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mingyan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mingyan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mingyan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mingyan" type="462c0819:PsiDirectoryNode" />
+              <item name="mingyan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mingyan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mingyan" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapyTest-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="mingyan" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="mingyan" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.boss">
+    <configuration name="6-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mingyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mingyan/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mingyan/spiders/6-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mingyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mingyan/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mingyan/spiders/boss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mingyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mingyan/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mingyan/spiders/test001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test002" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mingyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mingyan/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mingyan/spiders/test002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test003" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mingyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mingyan/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mingyan/spiders/test003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.boss" />
+        <item itemvalue="Python.test003" />
+        <item itemvalue="Python.test002" />
+        <item itemvalue="Python.6-1" />
+        <item itemvalue="Python.test001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e3a47c9-0f20-477c-ad63-264a41c5901b" name="Default Changelist" comment="" />
+      <created>1551530539282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551530539282</updated>
+      <workItem from="1551530545050" duration="2697000" />
+      <workItem from="1551622250125" duration="1452000" />
+      <workItem from="1551627637028" duration="1589000" />
+      <workItem from="1551663596644" duration="1192000" />
+      <workItem from="1551679785958" duration="1111000" />
+      <workItem from="1551686955729" duration="1737000" />
+      <workItem from="1551750116393" duration="1328000" />
+      <workItem from="1553053665513" duration="5382000" />
+      <workItem from="1553152469085" duration="7369000" />
+      <workItem from="1553224033950" duration="6467000" />
+      <workItem from="1553248148906" duration="604000" />
+      <workItem from="1553319904743" duration="8187000" />
+      <workItem from="1553396051182" duration="6948000" />
+      <workItem from="1553503996961" duration="71000" />
+      <workItem from="1553565933941" duration="2873000" />
+      <workItem from="1553879695402" duration="1046000" />
+      <workItem from="1554261829553" duration="10140000" />
+      <workItem from="1556249328726" duration="2294000" />
+      <workItem from="1557903821785" duration="259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62746000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49022803" weight="0.13948497" />
+      <window_info id="Structure" order="1" sideWeight="0.509772" side_tool="true" weight="0.13948497" />
+      <window_info id="Favorites" order="2" sideWeight="0.5058043" side_tool="true" weight="0.2607296" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.31777778" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3288889" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49022803" visible="true" weight="0.13948497" />
+      <window_info id="Structure" order="1" sideWeight="0.509772" side_tool="true" visible="true" weight="0.13948497" />
+      <window_info id="Favorites" order="2" sideWeight="0.5058043" side_tool="true" weight="0.2607296" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="10" visible="true" weight="0.31777778" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3288889" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mingyan/spiders/mingyan_spider.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mingyan/spiders/test001.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mingyan/spiders/test001.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mingyan/spiders/boss.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mingyan/spiders/boss.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mingyan/spiders/boss.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="soup" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1552144221/PyQt5/QtWidgets/QApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="258" column="8" selection-start-line="258" selection-start-column="8" selection-end-line="258" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/mingyan-1.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="71" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/scrapy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/twisted/python/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="764" column="8" selection-start-line="764" selection-start-column="8" selection-end-line="764" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="574" selection-start-line="574" selection-end-line="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/spiders/mingyan_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/spiders/test001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/spiders/test002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/spiders/6-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/spiders/test003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="217" column="18" selection-start-line="217" selection-start-column="6" selection-end-line="217" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#2728#1" />
+            <element signature="e#2881#2951#0" />
+            <element signature="e#3001#3401#0" />
+            <element signature="e#3654#3704#0" />
+            <element signature="e#3986#4059#0" />
+            <element signature="e#5027#5099#0" />
+            <element signature="e#5233#5709#0" />
+            <element signature="e#5393#5709#0" />
+            <element signature="e#5525#5638#0" />
+            <element signature="e#5758#6848#0" />
+            <element signature="e#5758#5799#0" />
+            <element signature="e#6076#6848#0" />
+            <element signature="e#6076#6524#1" />
+            <element signature="e#6659#6829#0" />
+            <element signature="e#6897#7701#0" />
+            <element signature="e#6897#7230#1" />
+            <element signature="e#7272#7584#0" />
+            <element signature="e#7748#26242#0" />
+            <element signature="e#7748#7803#0" />
+            <element signature="e#8106#9481#0" />
+            <element signature="e#8106#8168#0" />
+            <element signature="e#8675#8737#0" />
+            <element signature="e#9519#10698#0" />
+            <element signature="e#9759#9978#0" />
+            <element signature="e#9759#9812#0" />
+            <element signature="e#9890#9977#0" />
+            <element signature="e#10089#10297#0" />
+            <element signature="e#10110#10175#0" />
+            <element signature="e#10223#10297#0" />
+            <element signature="e#10354#10410#0" />
+            <element signature="e#10487#10594#0" />
+            <element signature="e#10729#13601#0" />
+            <element signature="e#10770#10833#0" />
+            <element signature="e#10914#11414#0" />
+            <element signature="e#11109#11414#0" />
+            <element signature="e#11554#11647#0" />
+            <element signature="e#11928#11999#0" />
+            <element signature="e#12182#12236#0" />
+            <element signature="e#12404#12434#0" />
+            <element signature="e#12764#13008#0" />
+            <element signature="e#12911#13008#0" />
+            <element signature="e#13298#13364#0" />
+            <element signature="e#13639#14664#0" />
+            <element signature="e#13720#13955#0" />
+            <element signature="e#13720#13770#0" />
+            <element signature="e#13965#14024#0" />
+            <element signature="e#14233#14293#0" />
+            <element signature="e#14701#14755#0" />
+            <element signature="e#14786#14914#0" />
+            <element signature="e#14868#14914#0" />
+            <element signature="e#14920#14985#0" />
+            <element signature="e#15134#15197#0" />
+            <element signature="e#15231#15242#0" />
+            <element signature="e#15311#15745#0" />
+            <element signature="e#15359#15427#0" />
+            <element signature="e#15785#16695#0" />
+            <element signature="e#15876#15917#0" />
+            <element signature="e#15959#16113#0" />
+            <element signature="e#16140#16695#0" />
+            <element signature="e#16140#16207#0" />
+            <element signature="e#16422#16615#0" />
+            <element signature="e#16539#16583#0" />
+            <element signature="e#16732#17692#0" />
+            <element signature="e#16821#16860#0" />
+            <element signature="e#16981#17111#0" />
+            <element signature="e#17022#17111#0" />
+            <element signature="e#17121#17188#0" />
+            <element signature="e#17382#17541#0" />
+            <element signature="e#17382#17444#0" />
+            <element signature="e#17592#17675#0" />
+            <element signature="e#17739#18218#0" />
+            <element signature="e#18088#18218#0" />
+            <element signature="e#18088#18141#0" />
+            <element signature="e#18269#18747#0" />
+            <element signature="e#18269#18321#0" />
+            <element signature="e#18404#18747#0" />
+            <element signature="e#18570#18679#0" />
+            <element signature="e#18570#18619#0" />
+            <element signature="e#18788#19826#0" />
+            <element signature="e#18788#18847#0" />
+            <element signature="e#19178#19800#0" />
+            <element signature="e#19221#19343#0" />
+            <element signature="e#19540#19759#0" />
+            <element signature="e#19868#20282#0" />
+            <element signature="e#19944#20201#0" />
+            <element signature="e#19972#20166#0" />
+            <element signature="e#20328#21051#0" />
+            <element signature="e#20437#20961#0" />
+            <element signature="e#20465#20961#0" />
+            <element signature="e#20643#20767#0" />
+            <element signature="e#21092#21954#0" />
+            <element signature="e#21092#21696#1" />
+            <element signature="e#21747#21927#0" />
+            <element signature="e#21997#22505#0" />
+            <element signature="e#22154#22478#0" />
+            <element signature="e#22195#22269#0" />
+            <element signature="e#22542#23364#0" />
+            <element signature="e#22542#22666#1" />
+            <element signature="e#22996#23205#0" />
+            <element signature="e#23041#23102#0" />
+            <element signature="e#23400#23660#0" />
+            <element signature="e#23400#23461#0" />
+            <element signature="e#23704#24222#0" />
+            <element signature="e#23810#23911#0" />
+            <element signature="e#24265#24773#0" />
+            <element signature="e#24265#24333#0" />
+            <element signature="e#24815#25345#0" />
+            <element signature="e#24815#24883#0" />
+            <element signature="e#25176#25242#0" />
+            <element signature="e#25377#25400#0" />
+            <element signature="e#25455#25724#0" />
+            <element signature="e#25760#25916#0" />
+            <element signature="e#26026#26037#0" />
+            <element signature="e#26125#26144#0" />
+            <element signature="e#26176#26191#0" />
+            <element signature="e#26224#26242#0" />
+            <element signature="e#26271#44715#0" />
+            <element signature="e#26546#27096#0" />
+            <element signature="e#26930#26984#0" />
+            <element signature="e#27163#28050#0" />
+            <element signature="e#27163#27749#1" />
+            <element signature="e#28101#28785#0" />
+            <element signature="e#28130#28756#0" />
+            <element signature="e#28256#28603#0" />
+            <element signature="e#28359#28571#0" />
+            <element signature="e#28832#28855#0" />
+            <element signature="e#28888#30072#0" />
+            <element signature="e#28934#28982#0" />
+            <element signature="e#29140#29275#0" />
+            <element signature="e#29486#29648#0" />
+            <element signature="e#29562#29646#0" />
+            <element signature="e#29681#30072#0" />
+            <element signature="e#29850#29919#0" />
+            <element signature="e#30105#30407#0" />
+            <element signature="e#30438#30843#0" />
+            <element signature="e#30542#30690#0" />
+            <element signature="e#30596#30690#0" />
+            <element signature="e#30720#30843#0" />
+            <element signature="e#30788#30843#0" />
+            <element signature="e#30879#32518#0" />
+            <element signature="e#30879#31076#1" />
+            <element signature="e#31120#31224#0" />
+            <element signature="e#31369#32157#0" />
+            <element signature="e#31567#31677#0" />
+            <element signature="e#31567#31627#0" />
+            <element signature="e#31712#31873#0" />
+            <element signature="e#31752#31873#0" />
+            <element signature="e#31911#32138#0" />
+            <element signature="e#32245#32518#0" />
+            <element signature="e#32304#32359#0" />
+            <element signature="e#32394#32518#0" />
+            <element signature="e#32410#32504#0" />
+            <element signature="e#32554#32710#0" />
+            <element signature="e#32554#32679#1" />
+            <element signature="e#32767#33165#0" />
+            <element signature="e#32767#32959#1" />
+            <element signature="e#33251#38543#0" />
+            <element signature="e#33251#33609#1" />
+            <element signature="e#33787#33858#0" />
+            <element signature="e#35322#38446#0" />
+            <element signature="e#35430#37510#0" />
+            <element signature="e#35430#35473#0" />
+            <element signature="e#36334#36559#0" />
+            <element signature="e#36602#37510#0" />
+            <element signature="e#36648#36721#0" />
+            <element signature="e#36772#36829#0" />
+            <element signature="e#37035#37091#0" />
+            <element signature="e#37400#37510#0" />
+            <element signature="e#37524#37590#0" />
+            <element signature="e#38130#38189#0" />
+            <element signature="e#38474#38543#0" />
+            <element signature="e#38595#39506#0" />
+            <element signature="e#38595#38708#1" />
+            <element signature="e#39077#39397#0" />
+            <element signature="e#39561#40135#0" />
+            <element signature="e#39561#39960#1" />
+            <element signature="e#40204#40303#0" />
+            <element signature="e#40362#41377#0" />
+            <element signature="e#40362#40432#0" />
+            <element signature="e#40857#41292#0" />
+            <element signature="e#40948#41292#0" />
+            <element signature="e#40948#40987#0" />
+            <element signature="e#41189#41292#0" />
+            <element signature="e#41444#42202#0" />
+            <element signature="e#42033#42172#0" />
+            <element signature="e#42033#42086#0" />
+            <element signature="e#42239#44715#0" />
+            <element signature="e#42239#42798#1" />
+            <element signature="e#42975#43045#0" />
+            <element signature="e#43906#44028#0" />
+            <element signature="e#44144#44652#0" />
+            <element signature="e#44234#44268#0" />
+            <element signature="e#44409#44494#0" />
+            <element signature="e#44529#44623#0" />
+            <element signature="e#44681#44715#0" />
+            <element signature="e#44776#46849#0" />
+            <element signature="e#44823#46810#0" />
+            <element signature="e#45233#46071#0" />
+            <element signature="e#45753#45886#0" />
+            <element signature="e#45770#45885#0" />
+            <element signature="e#46112#46810#0" />
+            <element signature="e#46570#46810#0" />
+            <element signature="e#46710#46810#0" />
+            <element signature="e#46887#47017#0" />
+            <element signature="e#46887#46952#0" />
+            <element signature="e#47058#47062#0" />
+            <element signature="e#47101#47105#0" />
+            <element signature="e#47149#47237#0" />
+            <element signature="e#47186#47237#0" />
+            <element signature="e#47289#47293#0" />
+            <element signature="e#47343#47347#0" />
+            <element signature="e#47390#47850#0" />
+            <element signature="e#47442#47526#0" />
+            <element signature="e#47559#47801#0" />
+            <element signature="e#47715#47800#0" />
+            <element signature="e#47833#47850#0" />
+            <element signature="e#47902#47906#0" />
+            <element signature="e#47962#47966#0" />
+            <element signature="e#48021#48025#0" />
+            <element signature="e#48080#48084#0" />
+            <element signature="e#48126#48253#0" />
+            <element signature="e#48160#48253#0" />
+            <element signature="e#48293#48463#0" />
+            <element signature="e#48332#48463#0" />
+            <element signature="e#48532#48660#0" />
+            <element signature="e#48572#48660#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/spiders/employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/pyqt5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyTest-master/nextSpider/nextSpider/spiders/next_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1610">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mingyan/spiders/boss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

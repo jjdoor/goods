@@ -1,0 +1,49 @@
+{
+   "type": "record",
+   "name": "CaptureFaceResult",
+   "fields": [{
+         "name": "face_image",
+         "type": [
+            "null",
+            {
+               "type": "record",
+               "name": "Image",
+               "fields": [{
+                     "name": "content",
+                     "type": "bytes"
+                  },
+                  {
+                     "name": "content_type",
+                     "doc": "valid mime-type",
+                     "type": "string"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "face_feature",
+         "type": [
+            "null",
+            "bytes"
+         ]
+      },
+      {
+         "name": "scene_image",
+         "type": [
+            "null",
+            "Image"
+         ]
+      },
+      {
+         "name": "timestamp",
+         "doc": "The time point when this image was snapshotted",
+         "type": "string"
+      },
+      {
+         "name": "extra_meta",
+         "doc": "json format",
+         "type": "string"
+      }
+   ]
+}

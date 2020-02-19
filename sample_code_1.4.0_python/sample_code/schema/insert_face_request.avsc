@@ -1,0 +1,35 @@
+{
+   "type":"record",
+   "name":"ImportFaceRequest",
+   "fields":[
+      {
+         "name":"face_image",
+         "type":[
+            {
+               "type":"record",
+               "name":"Image",
+               "fields":[
+                  {
+                     "name":"content",
+                     "type":"bytes"
+                  },
+                  {
+                     "name":"content_type",
+                     "doc":"valid mime-type",
+                     "type":"string"
+                  }
+               ]
+            },
+            {
+               "type":"bytes",
+               "name":"feature"
+            }
+         ]
+      },
+      {
+         "name":"extra_meta",
+         "doc":"json format",
+         "type":"string"
+      }
+   ]
+}

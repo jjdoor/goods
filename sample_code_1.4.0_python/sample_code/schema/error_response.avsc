@@ -1,0 +1,10 @@
+{
+   "type":"record",
+   "name":"ErrorResponse",
+   "fields":[
+      {
+         "name":"reason",
+         "type":"string"
+      }
+   ]
+}

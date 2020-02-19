@@ -1,0 +1,110 @@
+{
+   "type": "record",
+   "name": "RetrivalFaceResult",
+   "fields": [{
+         "name": "face",
+         "type": {
+            "type": "record",
+            "name": "Face",
+            "fields": [{
+                  "name": "face_image",
+                  "type": [
+                     "null",
+                     {
+                        "type": "record",
+                        "name": "Image",
+                        "fields": [{
+                              "name": "content",
+                              "type": "bytes"
+                           },
+                           {
+                              "name": "content_type",
+                              "doc": "valid mime-type",
+                              "type": "string"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "face_feature",
+                  "type": [
+                     "null",
+                     "bytes"
+                  ]
+               },
+               {
+                  "name": "scene_image",
+                  "type": [
+                     "null",
+                     "Image"
+                     
+                  ]
+               },
+               {
+                  "name": "timestamp",
+                  "doc": "The time point when this image was snapshotted",
+                  "type": "string"
+               },
+               {
+                  "name": "extra_meta",
+                  "doc": "json format",
+                  "type": "string"
+               }
+            ]
+         }
+      },
+      {
+         "name": "retrieval_results",
+         "type": {
+            "type": "array",
+            "items": {
+               "type": "record",
+               "name": "RetrievalResult",
+               "fields": [{
+                     "name": "repository_id",
+                     "type": "string"
+                  },
+                  {
+                     "name": "similar_faces",
+                     "type": {
+                        "type": "array",
+                        "items": {
+                           "type": "record",
+                           "name": "SimilarFace",
+                           "fields": [{
+                                 "name": "id",
+                                 "doc": "face_id in the repository",
+                                 "type": "string"
+                              },
+                              {
+                                 "name": "similarity",
+                                 "doc": "0 - 100",
+                                 "type": "double"
+                              },
+                              {
+                                 "name": "extra_meta",
+                                 "doc": "json format",
+                                 "type": "string"
+                              }
+                           ]
+                        }
+                     }
+                  }
+               ]
+            }
+         }
+      },
+      {
+          "name": "result_type",
+          "type": {
+              "type":"enum",
+              "name":"ResultType",
+              "symbols":[
+                  "Capture",
+              "Retrieval"
+              ]
+          }
+      }
+   ]
+}

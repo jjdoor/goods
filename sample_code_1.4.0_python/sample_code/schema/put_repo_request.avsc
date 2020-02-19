@@ -1,0 +1,15 @@
+{
+   "type":"record",
+   "name":"EditRepositoryRequest",
+   "fields":[
+      {
+         "name":"name",
+         "type":"string"
+      },
+      {
+         "name":"extra_meta",
+         "doc":"json format",
+         "type":"string"
+      }
+   ]
+}

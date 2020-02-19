@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.33872768" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21d03b54-906a-45a1-836b-6ec9f6602daf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/scrapy-examples/doubanbook/doubanbook/spiders/douban_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy-examples/doubanbook/doubanbook/spiders/douban_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy-examples/qqnews/qqnews/spiders/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy-examples/qqnews/qqnews/spiders/spider.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/zhipin$test002.coverage" NAME="test002 Coverage Results" MODIFIED="1568357376134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhipin$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1568126861170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhipin$zhipin.coverage" NAME="zhipin Coverage Results" MODIFIED="1568127366877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zhipin" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/scrapy-examples" />
+  </component>
+  <component name="ProjectId" id="1QlxG92twfEV9HAjC2JBtaeftv6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scrapy-examples/doubanbook" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="zhipin" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="zhipin" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python_project\zhipin\scrapy-examples\doubanbook" />
+      <recent name="D:\python_project\zhipin\BaiduImages" />
+      <recent name="D:\python_project\zhipin\shanbei_spider\shanbei_spider" />
+      <recent name="D:\python_project\zhipin\shanbei_spider\shanbei_spider\spiders" />
+      <recent name="D:\python_project\zhipin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.begin (1)">
+    <configuration name="begin (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhipin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy-examples/doubanbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy-examples/doubanbook/begin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="begin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhipin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaiduImages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaiduImages/begin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="begingaoqing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhipin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shanbei_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shanbei_spider/begingaoqing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhipin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/localhost.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="localhosttest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhipin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/localhosttest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myweb" type="Python.DjangoServer" factoryName="Django server">
+      <module name="zhipin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="zhipin" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@192.168.1.33:22/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="9000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.myweb" />
+      <item itemvalue="Python.begingaoqing" />
+      <item itemvalue="Python.localhost" />
+      <item itemvalue="Python.localhosttest" />
+      <item itemvalue="Python.begin" />
+      <item itemvalue="Python.begin (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.begin (1)" />
+        <item itemvalue="Python.begin" />
+        <item itemvalue="Python.begingaoqing" />
+        <item itemvalue="Python.localhosttest" />
+        <item itemvalue="Python.localhost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21d03b54-906a-45a1-836b-6ec9f6602daf" name="Default Changelist" comment="" />
+      <created>1567067192285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567067192285</updated>
+      <workItem from="1567067193816" duration="443000" />
+      <workItem from="1567067806334" duration="2379000" />
+      <workItem from="1567072212274" duration="3073000" />
+      <workItem from="1567094161885" duration="595000" />
+      <workItem from="1567126258723" duration="15336000" />
+      <workItem from="1567172035271" duration="3058000" />
+      <workItem from="1567213382991" duration="919000" />
+      <workItem from="1568113004961" duration="7642000" />
+      <workItem from="1568165334675" duration="10247000" />
+      <workItem from="1568250655595" duration="626000" />
+      <workItem from="1568356004881" duration="2581000" />
+      <workItem from="1568358900816" duration="1260000" />
+      <workItem from="1568515926768" duration="9076000" />
+      <workItem from="1568683819468" duration="20626000" />
+      <workItem from="1568902596657" duration="8593000" />
+      <workItem from="1568984350103" duration="2645000" />
+      <workItem from="1569121082144" duration="5641000" />
+      <workItem from="1569419237060" duration="604000" />
+      <workItem from="1569422756392" duration="601000" />
+      <workItem from="1569460204271" duration="72000" />
+      <workItem from="1569460314021" duration="349000" />
+      <workItem from="1569461612139" duration="1217000" />
+      <workItem from="1569598946803" duration="2420000" />
+      <workItem from="1569854867007" duration="60000" />
+      <workItem from="1569855032356" duration="4444000" />
+      <workItem from="1569918593046" duration="2954000" />
+      <workItem from="1569943253588" duration="2255000" />
+      <workItem from="1570025003289" duration="593000" />
+      <workItem from="1570152121533" duration="3935000" />
+      <workItem from="1570956645589" duration="635000" />
+      <workItem from="1571365384671" duration="876000" />
+      <workItem from="1571366310880" duration="1831000" />
+      <workItem from="1571391138549" duration="7665000" />
+      <workItem from="1571453316628" duration="10871000" />
+      <workItem from="1571495247042" duration="1928000" />
+      <workItem from="1571553193750" duration="4296000" />
+      <workItem from="1571578340903" duration="1175000" />
+      <workItem from="1571580636711" duration="4360000" />
+      <workItem from="1571622777794" duration="1253000" />
+      <workItem from="1571794416429" duration="17782000" />
+      <workItem from="1572141674720" duration="6308000" />
+      <workItem from="1572165807760" duration="3768000" />
+      <workItem from="1572227295578" duration="2425000" />
+      <workItem from="1572263758178" duration="5121000" />
+      <workItem from="1572339213892" duration="1802000" />
+      <workItem from="1572484863208" duration="11041000" />
+      <workItem from="1572541317742" duration="770000" />
+      <workItem from="1572569457430" duration="42000" />
+      <workItem from="1572570561198" duration="10240000" />
+      <workItem from="1572704701859" duration="12174000" />
+      <workItem from="1572884128476" duration="3136000" />
+      <workItem from="1572969754844" duration="3693000" />
+      <workItem from="1573044433731" duration="601000" />
+      <workItem from="1573092011042" duration="754000" />
+      <workItem from="1573143657388" duration="1818000" />
+      <workItem from="1573178485458" duration="2274000" />
+      <workItem from="1573351990884" duration="12209000" />
+      <workItem from="1573435927261" duration="1110000" />
+      <workItem from="1573699230711" duration="10000" />
+      <workItem from="1573699765290" duration="13022000" />
+      <workItem from="1574699029604" duration="309000" />
+      <workItem from="1574774752410" duration="2895000" />
+      <workItem from="1574861368368" duration="5380000" />
+      <workItem from="1574948034172" duration="3313000" />
+      <workItem from="1575010985200" duration="83000" />
+      <workItem from="1575387686486" duration="596000" />
+      <workItem from="1575468581630" duration="463000" />
+      <workItem from="1575469236260" duration="971000" />
+      <workItem from="1575473821549" duration="1215000" />
+      <workItem from="1575552469908" duration="5818000" />
+      <workItem from="1575637514179" duration="1890000" />
+      <workItem from="1575727911314" duration="13752000" />
+      <workItem from="1575984866541" duration="2250000" />
+      <workItem from="1576673790676" duration="2959000" />
+      <workItem from="1576678936997" duration="2752000" />
+      <workItem from="1577411706541" duration="23000" />
+      <workItem from="1577455673755" duration="1373000" />
+      <workItem from="1578100004541" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="196" key="FileChooserDialogImpl" timestamp="1576677893470">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="685" y="196" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1576677893470" />
+    <state width="1846" height="312" key="GridCell.Tab.0.bottom" timestamp="1576678917248">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1576678917248" />
+    <state width="1846" height="312" key="GridCell.Tab.0.center" timestamp="1576678917248">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="312" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1576678917248" />
+    <state width="1846" height="312" key="GridCell.Tab.0.left" timestamp="1576678917247">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="312" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1576678917247" />
+    <state width="1846" height="312" key="GridCell.Tab.0.right" timestamp="1576678917248">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="312" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1576678917248" />
+    <state width="1846" height="312" key="GridCell.Tab.1.bottom" timestamp="1576678917249">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="312" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1576678917249" />
+    <state width="1846" height="312" key="GridCell.Tab.1.center" timestamp="1576678917249">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="312" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1576678917249" />
+    <state width="1846" height="312" key="GridCell.Tab.1.left" timestamp="1576678917249">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="312" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1576678917249" />
+    <state width="1846" height="312" key="GridCell.Tab.1.right" timestamp="1576678917249">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="312" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1576678917249" />
+    <state x="612" y="180" width="687" height="655" key="StructurePopup" timestamp="1576678150701">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="612" y="180" width="687" height="655" key="StructurePopup/0.0.1920.1032@0.0.1920.1032" timestamp="1576678150701" />
+    <state x="574" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1578100049846">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="574" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1577411706550" />
+    <state x="574" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1578100049846" />
+    <state x="569" y="216" width="786" height="600" key="find.popup" timestamp="1575986344251">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="569" y="216" width="786" height="600" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1575986344251" />
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup" timestamp="1575730751991">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1575730751991" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonDemo-master/spider_main.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapybossspider/begin.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders/blog_spider.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders/blog_spider.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders/blog_spider.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders/test002.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders/books.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders/blog_spider.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders/books.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/gaoqing.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/localhosttest.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/jdbooks.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/jdbooks.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/jdbooks.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/boss.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/boss.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/boss.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/boss.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/boss.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/boss.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shanbei_spider/shanbei_spider/spiders/boss.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaiduImages/BaiduImages/spiders/images.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy-examples/doubanbook/doubanbook/spiders/douban_spider.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="date.today()" />
+        <watch expression="result.xpath(&quot;./text()&quot;).extract()" />
+        <watch expression="zip(name, price, comment, publishstore,href)" />
+        <watch expression="response.xpath(&quot;//span[@class='p-skip']/em/b/text()&quot;).get()" />
+        <watch expression="url%(each_page*2+1,each_page*60)" />
+        <watch expression="url%(each_page)" />
+        <watch expression="url%(each_page,each_page)" />
+        <watch expression="response.url.split(&quot;/&quot;)" />
+        <watch expression="response.url.split(&quot;/&quot;)[-2]" />
+        <watch expression="response.css('div.job-list div.page h3.name a::attr(href):last-child')" />
+        <watch expression="response.css('div.job-list div.page h3.name a:last-child::attr(href)')" />
+        <watch expression="response.css('div.job-list div.page a:last-child::attr(href)')" />
+        <watch expression="response.css('div.job-list div.page a:last-child::attr(href)').extract_first()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zhipin$test002.coverage" NAME="test002 Coverage Results" MODIFIED="1571457611756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders" />
+    <SUITE FILE_PATH="coverage/zhipin$test003begin.coverage" NAME="test003begin Coverage Results" MODIFIED="1572164080958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test003" />
+    <SUITE FILE_PATH="coverage/zhipin$blog_spider.coverage" NAME="blog_spider Coverage Results" MODIFIED="1568877339358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders" />
+    <SUITE FILE_PATH="coverage/zhipin$begingaoqing.coverage" NAME="begingaoqing Coverage Results" MODIFIED="1573401810169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shanbei_spider" />
+    <SUITE FILE_PATH="coverage/zhipin$test004.coverage" NAME="test004 Coverage Results" MODIFIED="1571810549909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhipin$testcss.coverage" NAME="testcss Coverage Results" MODIFIED="1571800670202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapybossspider/scrapybossspider/spiders" />
+    <SUITE FILE_PATH="coverage/zhipin$localhost.coverage" NAME="localhost Coverage Results" MODIFIED="1572572623189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/zhipin$begin.coverage" NAME="begin Coverage Results" MODIFIED="1576678063653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiduImages" />
+    <SUITE FILE_PATH="coverage/zhipin$game.coverage" NAME="game Coverage Results" MODIFIED="1568544057413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhipin$localhosttest.coverage" NAME="localhosttest Coverage Results" MODIFIED="1572576952656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhipin$begin__1_.coverage" NAME="begin (1) Coverage Results" MODIFIED="1576678108986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy-examples/doubanbook" />
+    <SUITE FILE_PATH="coverage/zhipin$test003.coverage" NAME="test003 Coverage Results" MODIFIED="1571846167519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhipin$local.coverage" NAME="local Coverage Results" MODIFIED="1572494878052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhipin$pygame.coverage" NAME="pygame Coverage Results" MODIFIED="1568519105430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhipin$spider_main.coverage" NAME="spider_main Coverage Results" MODIFIED="1568684013024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonDemo-master" />
+  </component>
+</project>
